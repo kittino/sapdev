@@ -1,0 +1,15 @@
+.noneSticky {
+    display: none;
+}
+
+.showSticky {
+    width: auto;
+    height: 20px;
+    background: black;
+    position: fixed;
+    left: 50px;
+    top: 0px;
+    font-size: 15px;
+    padding: 5px;
+}
+

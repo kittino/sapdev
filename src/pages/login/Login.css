@@ -1,0 +1,9 @@
+.loginContainerNone {
+    display: none;
+}
+
+.loginContainer {
+    height: 100vh;
+    width: 80vw;
+    background-color: darkgrey;
+}
